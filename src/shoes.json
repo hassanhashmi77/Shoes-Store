@@ -1,0 +1,18 @@
+{
+    "P1": {
+        "name": " Pro",
+        "img": "/images/p8.jpg"
+    },
+    "P2": {
+        "name": "New Style",
+        "img": "/images/p9.jpg"
+    },
+    "P3": {
+        "name": "RACER BLUE",
+        "img": "/images/p5.jpg"
+    },
+    "P4": {
+        "name": "RACER ",
+        "img": "/images/p1.jpg"
+    }
+}
