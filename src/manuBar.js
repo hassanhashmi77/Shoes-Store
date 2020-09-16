@@ -9,7 +9,7 @@ function Manu() {
 
     document.addEventListener('DOMContentLoaded', function () {
         var elems = document.querySelectorAll('.sidenav');
-        var instances = M.Sidenav.init(elems);
+        M.Sidenav.init(elems);
 
     });
 
@@ -20,7 +20,7 @@ function Manu() {
             <nav id="aabn">
                 <div class="nav-wrapper">
                     Shoes Store
-                    <a href="#" data-target="mobile-demo" class="sidenav-trigger">
+                    <a href="/" data-target="mobile-demo" class="sidenav-trigger">
                         <div className='abc'><MenuIcon fontSize="large" /></div>
 
                     </a>

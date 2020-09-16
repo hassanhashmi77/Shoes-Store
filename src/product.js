@@ -30,7 +30,7 @@ function MediaCard() {
     return (
         <div >
             <Grid container spacing={0.5} >
-                <Grid item xs={12} item sm={6} item md={4} item lg={3} spacing={3}>
+                <Grid item xs={12} sm={6} md={4} lg={3} spacing={3}>
                     <div className="maxmargin">
                         <Card className={classes.root} >
                             <Link to="/product/P1">
@@ -63,7 +63,7 @@ function MediaCard() {
                     </div>
                 </Grid>
 
-                <Grid item xs={12} item sm={6} item md={4} item lg={3} spacing={3}>
+                <Grid item xs={12} sm={6} md={4} lg={3} spacing={3}>
                     <div className="maxmargin">
                         <Card className={classes.root} >
                             <Link to="/product/P2">
@@ -95,7 +95,7 @@ function MediaCard() {
                         </Card>
                     </div>
                 </Grid>
-                <Grid item xs={12} item sm={6} item md={4} item lg={3} spacing={3}>
+                <Grid item xs={12} sm={6} md={4} lg={3} spacing={3}>
                     <div className="maxmargin">
                         <Card className={classes.root} >
                             <Link to="/product/P3">
@@ -127,7 +127,7 @@ function MediaCard() {
                         </Card>
                     </div>
                 </Grid>
-                <Grid item xs={12} item sm={6} item md={4} item lg={3} spacing={3}>
+                <Grid item xs={12} sm={6} md={4} lg={3} spacing={3}>
                     <div className="maxmargin">
                         <Card className={classes.root} >
                             <Link to="/product/P4">

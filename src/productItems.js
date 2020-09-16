@@ -13,7 +13,7 @@ function ProductList() {
     return (
         <div className="center" >
             <h1>{shoe.name}</h1>
-            <img src={shoe.img} hight="500px" width="500px" />
+            <img src={shoe.img} alt="description" hight="500px" width="500px" />
 
         </div >
     );
